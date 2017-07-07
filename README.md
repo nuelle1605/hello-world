@@ -1,4 +1,4 @@
 # hello-world
 startup guide
 
-dude I am new here coming from a TFS only company
+Dude I am new here coming from a TFS only company.
